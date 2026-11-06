@@ -1,0 +1,14 @@
+# System & Editor artifacts
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.orig
+*~
+*.swp
+
+# WoW SavedVariables & Log Files
+*.lua.bak
+*.txt.bak
+Logs/
+Errors/
